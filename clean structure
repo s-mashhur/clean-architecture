@@ -1,0 +1,13 @@
+1=> folder core
+-----> class lib  application --->folder DataBase --->DataBaseContext
+                                              --->folder Dto --->Resualt Dto
+                                              ---> folder Services
+   
+-----> class lib Domain ---->Entities
+
+
+2=>folder Infrastructure 
+----->class lib Persistance ---> folder context ---> Databasecontext
+
+
+3=>folder persentaion ----> UI
